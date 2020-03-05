@@ -1,0 +1,8 @@
+.photo-container {
+  max-width: 500px;
+  margin: auto;
+}
+
+.photo-container .photo {
+  width: 100%;
+}
